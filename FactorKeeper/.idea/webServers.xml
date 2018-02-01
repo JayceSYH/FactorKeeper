@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e7fd62e0-ee86-4bc4-b27f-de042bbd5696" name="SkyEcon24" url="http://10.0.2.24">
+        <fileTransfer host="10.0.2.24" port="22" rootFolder="/home/kun.wu/yuhao.sun/SkyEconServer2/Core" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
